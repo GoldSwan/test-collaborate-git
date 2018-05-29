@@ -1,1 +1,2 @@
 Hello, I'm collaborate-text
+commit "B"
